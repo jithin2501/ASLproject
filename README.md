@@ -1,2 +1,2 @@
-# ASLproject
-ASL alphabet recognition using ML and with proper suggestion
+# projectASL
+project on ASL alphabets recognition using ML and with proper suggestion for faster input
